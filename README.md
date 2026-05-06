@@ -11,8 +11,8 @@ Improvement suggestions — closed-loop control, soft-start, snubber, EMI filter
 
 
 
+<img width="1904" height="819" alt="Screenshot 2026-05-07 000008" src="https://github.com/user-attachments/assets/9233305d-6968-461e-a372-5f37bf870a23" />
 
-<img width="1905" height="844" alt="Screenshot 2026-05-06 235909" src="https://github.com/user-attachments/assets/b5544394-c19e-40eb-b1e4-f5ff19f048eb" />
 BSC042N03LS (30V, 4.2mΩ) MOSFET + 1N5819 Schottky diode + 12.15µH inductor + 4.7µF cap
 400 kHz switching at 40% duty cycle → theoretical 4.8V, simulated ~4.7V (the ~100mV drop is explained by diode Vf losses)
 No-load behavior explained — the slow exponential rise in V(n008) is because there's no load resistor to discharge, making it charge like an RC circuit
