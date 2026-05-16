@@ -1,6 +1,7 @@
 This project involves developing Python code to automate the design calculations of the circuit, reducing manual effort and improving accuracy. The computed results are then validated using LTspice simulations to ensure correctness and practical reliability. This approach combines analytical design with simulation-based verification for efficient and accurate circuit development.
 
-<img width="1905" height="844" alt="Screenshot 2026-05-06 235909" src="https://github.com/user-attachments/assets/b6a922de-f829-48af-96c2-4bf9eee6fe
+<img width="1905" height="844" alt="Screenshot 2026-05-06 235909" src="https://github.com/user-attachments/assets/599ac27f-b390-486b-8144-9b553a23dde7" />
+
 
 
 This project demonstrates the design and simulation of a DC-DC boost converter. Python code is used to automate key design calculations such as inductor value, duty cycle, and output capacitor sizing, improving accuracy and reducing manual effort. The calculated parameters are then implemented and verified using LTspice simulation. The results show a stable stepped-up output voltage with transient response and ripple characteristics matching theoretical expectations, validating both the analytical and simulation approach.
